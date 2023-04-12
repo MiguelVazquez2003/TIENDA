@@ -1,0 +1,2 @@
+Fecha de la orden: 11/04/2023 19:49:27,	Nombre del producto: Mike,	Clave: 1,	Cantidad Ordenada: 100,	Nombre del proveedor: mike,	Telefono del proveedor: 8116921421,	Correo del proveedor: miguel67929@outlook.es
+Fecha de la orden: 11/04/2023 21:13:49,	Nombre del producto: Mike,	Clave: 1,	Cantidad Ordenada: 100,	Nombre del proveedor: Pollo,	Telefono del proveedor: 8115198935,	Correo del proveedor: miguel67929@outlook.es
