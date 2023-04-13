@@ -86,7 +86,7 @@ int main()
                     system("cls");
                     do
                     {
-                        printf("\n1.Reporte Completo.\n2.Reporte por Caducidad.\n3.Reporte por Ordenes de Compra.\n4.Reporte de ventas del dia.\n5.Reporte de Ventas del Dia\n6.Salir");
+                        printf("\n1.Reporte Completo.\n2.Reporte por Caducidad.\n3.Reporte por Ordenes de Compra.\n4.Reporte de ventas del dia.\n5.Faltan dos opciones.\n6.Salir");
                         printf("\nIngresa una opcion: ");
                         scanf("%d", &opcion2);
                         switch (opcion2)
