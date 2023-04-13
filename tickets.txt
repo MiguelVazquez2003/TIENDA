@@ -1,0 +1,1 @@
+Clave del producto: 1671,	Nombre del producto: Alimento Gato 10 kg,	Cantidad vendida: 1,	Precio de venta: 609.70,Clave del producto: 1611,	Nombre del producto: Pepsi 2.5 L ,	Cantidad vendida: 2,	Precio de venta: 42.90,	Total a pagar: $695.50,	Fecha de venta: 12/04/2023 17:35:21

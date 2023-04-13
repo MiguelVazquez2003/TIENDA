@@ -1,0 +1,2 @@
+Fecha de la orden: 12/04/2023 18:53:35,	Nombre del producto: Alimento Gato 10 kg,	Clave: 1671,	Cantidad Ordenada: 20,	Nombre del proveedor: Angel Diaz,	Telefono del proveedor: 8115198935,	Correo del proveedor: mike@gmail.com
+Fecha de la orden: 12/04/2023 18:56:40,	Nombre del producto: Alimento Gato 10 kg,	Clave: 1671,	Cantidad Ordenada: 30,	Nombre del proveedor: Angel Diaz,	Telefono del proveedor: 8115198935,	Correo del proveedor: mike@gmail.com
