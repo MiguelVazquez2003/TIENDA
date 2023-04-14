@@ -1,0 +1,21 @@
+Clave      Nombre                         Precio          Cantidad       
+206        Pan dulce                      10.00           30             
+6230       Ruffles de Queso               20.00           30             
+349        Leche Lala 1L                  20.00           30             
+1671       Alimento Gato 10 kg            469.00          30             
+1023       Crema Norte¤ita 500 g          34.00           23             
+7899       Chorizo Los Reyes              18.00           20             
+5901       Ruffles Clasicas               20.00           20             
+9833       Frijoles Sierra                25.50           12             
+8932       Paleta Bubbalo Azul            7.00            12             
+299        Revoltura 1 kg                 30.00           10             
+1001       Bolsa de Duritos               50.00           10             
+1977       Tostadas 60 pz                 45.00           9              
+4078       Paleta Bubbalo Roja            7.00            8              
+9912       Barra de Margarina             15.00           8              
+20         Salchichas 10pz                40.00           6              
+8095       Salsas Caseras 1L              30.00           6              
+1938       Aderezo Mil Islas 1L           60.00           5              
+1601       Refresco 2.5 L                 36.00           5              
+1611       Pepsi 2.5 L                    33.00           5              
+7816       Salsa Botanera Galon           110.00          3              

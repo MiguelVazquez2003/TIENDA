@@ -1,0 +1,21 @@
+Clave      Proveedor                      Producto                      
+5901       Abraham Romero                 Ruffles Clasicas              
+6230       Abraham Romero                 Ruffles de Queso              
+7816       Adriana Jose                   Salsa Botanera Galon          
+1023       Andrea Mendez                  Crema Norte¤ita 500 g         
+1671       Angel Diaz                     Alimento Gato 10 kg           
+9912       Benjamin Vega                  Barra de Margarina            
+4078       Brayan Balderas                Paleta Bubbalo Roja           
+1601       Cristina Vazquez               Refresco 2.5 L                
+1001       Daniel Ramos                   Bolsa de Duritos              
+9833       Diego Diaz                     Frijoles Sierra               
+8932       Diego Diaz                     Paleta Bubbalo Azul           
+1938       Fernanda Lugo                  Aderezo Mil Islas 1L          
+299        Guillermo Guerrero             Revoltura 1 kg                
+1611       Isabel Diaz                    Pepsi 2.5 L                   
+206        Lorenzo Perez                  Pan dulce                     
+1977       Miguel Sustaita                Tostadas 60 pz                
+349        Rafael Gutierritos             Leche Lala 1L                 
+20         Rafael Gutierritos             Salchichas 10pz               
+7899       Sofia Salazar                  Chorizo Los Reyes             
+8095       Victor Martinez                Salsas Caseras 1L             
